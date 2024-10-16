@@ -1,0 +1,32 @@
+.btn-custom {
+  color: #fff;
+  background-color: #007bff; 
+  border-color: #007bff;
+}
+
+.btn-custom:hover {
+  background-color: #0056b3; 
+  border-color: #0056b3;
+}
+
+.watermark {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.password-toggle {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-0%);
+  cursor: pointer;
+  color: #007bff;
+  user-select: none;
+}
+
+.position-relative .form-control {
+  padding-right: 60px;
+}

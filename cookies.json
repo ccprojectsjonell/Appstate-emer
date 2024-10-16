@@ -1,0 +1,30 @@
+[
+  {
+    "name": "sb",
+    "value": "7fLeZr57EqWQFhdBIdu7MGqY",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1760447213.817061,
+    "size": 26,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure"
+  },
+  {
+    "name": "datr",
+    "value": "7fLeZszMah7ADRTMlOZdN2Ey",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1760447213.816978,
+    "size": 28,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure"
+  }
+]

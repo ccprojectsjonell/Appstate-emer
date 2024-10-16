@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "bluebird": "^3.7.2",
+    "cheerio": "^1.0.0",
+    "express": "^4.21.0",
+    "fbkey": "^1.0.9",
+    "fca-project-orion": "^1.1.22",
+    "https-proxy-agent": "^7.0.5",
+    "mqt": "^1.0.2",
+    "mqtt": "^5.10.1",
+    "npmlog": "^7.0.1",
+    "websocket-stream": "^5.5.2"
+  }
+}
